@@ -2,3 +2,4 @@
 venv
 .ipynb_checkpoints
 MY-NOTES.md
+.DS_Store
